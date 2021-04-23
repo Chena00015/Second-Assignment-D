@@ -1,5 +1,5 @@
-# Second-Assignment-D
 #include <stdio.h>
+
  int main()
  { int n, rev = 0, remainder; 
 printf("Enter an integer: ");
